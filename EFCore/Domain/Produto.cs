@@ -1,4 +1,5 @@
-﻿using System;
+﻿using EFCore.Obejct.EFCore.ValuesObject;
+using System;
 using System.Collections.Generic;
 using System.Text;
 
@@ -15,5 +16,7 @@ namespace EFCore.Domain
         public string CodigoBarras { get; internal set; }
         public string Descricao { get; internal set; }
         public string Valor { get; internal set; }
+        public bool Ativo { get; internal set; }
+        public TipoProduto TipoProduto { get; internal set; }
     }
 }

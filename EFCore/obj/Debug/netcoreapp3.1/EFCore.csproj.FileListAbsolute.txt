@@ -63,3 +63,9 @@ C:\Users\55319\source\repos\EFCore\EFCore\obj\Debug\netcoreapp3.1\EFCore.dll
 C:\Users\55319\source\repos\EFCore\EFCore\obj\Debug\netcoreapp3.1\EFCore.pdb
 C:\Users\55319\source\repos\EFCore\EFCore\obj\Debug\netcoreapp3.1\EFCore.genruntimeconfig.cache
 C:\Users\55319\source\repos\EFCore\EFCore\obj\Debug\netcoreapp3.1\EFCore.csproj.AssemblyReference.cache
+C:\Users\55319\source\repos\EFCore\EFCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\55319\source\repos\EFCore\EFCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\55319\source\repos\EFCore\EFCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\55319\source\repos\EFCore\EFCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Console.dll
+C:\Users\55319\source\repos\EFCore\EFCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\55319\source\repos\EFCore\EFCore\bin\Debug\netcoreapp3.1\System.Text.Json.dll

@@ -14,5 +14,6 @@ namespace EFCore.Domain
 		public decimal Desconto { get; set; }
         public string Valor { get; internal set; }
         public string Quantidade { get; internal set; }
+        public object ProdutoId { get; internal set; }
     }
 }

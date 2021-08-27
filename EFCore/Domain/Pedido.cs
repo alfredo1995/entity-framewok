@@ -17,5 +17,7 @@ namespace EFCore.Domain
 		public StatusPedido Status { get; set; }
 		public string Observacao { get; set; }
 		public ICollection<PedidoItem> Intes { get; set; }
+        public DateTime FinalizadoEM { get; internal set; }
+        public string Nome { get; internal set; }
     }
 }

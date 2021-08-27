@@ -11,6 +11,7 @@ namespace EFCore.Obejct
 			MecadoriaParaRevenda,
 			Embalagem,
 			Serviço,
-		}
+            MercadoriaParaRevenda,
+        }
 	}
 }
