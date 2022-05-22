@@ -508,7 +508,8 @@ Comando no Package Nuget Console
 
 gerando script SQL passando .\pasta\solutionProjet
 	
-	terminal : dotnet ef migrations script -p .\EFCore\EFCore.csproj -o .\EFCore\PrimeiraMigracao.SQL
+	terminal : dotnet ef migrations Script -o .\Script\PrimeiraMigracao.SQL
+	           dotnet ef migrations script -p .\EFCore\EFCore.csproj -o .\EFCore\PrimeiraMigracao.SQL
 	
 Aplicando a migração no Banco de Dados
 
