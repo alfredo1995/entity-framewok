@@ -18,7 +18,7 @@ CursoEFCore > ValuesObjects  >  StatusPedidos.cs
          
 	namespace EFCore.Obejct 
 	{  
-	    public enum StatusPedido  
+	    public enum StatusPedido   
 	    {
 		Analise,
 		Fizalizado,
