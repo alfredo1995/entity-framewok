@@ -16,7 +16,7 @@ criar a pasta DOMAIN e ValuesObjects > dentro do projeto Console CursoEFCore
 
 CursoEFCore > ValuesObjects  >  StatusPedidos.cs
          
-	namespace EFCore.Obejct
+	namespace EFCore.Obejct 
 	{  
 	    public enum StatusPedido  
 	    {
