@@ -56,7 +56,7 @@ CursoEFCore > ValuesObjects  >  TipoProduto.cs
 		{
 		    MecadoriaParaRevenda,
 		    Embalagem,
-		    Serviço,
+		    Serviço, 
 		}
 	    }
 	}
