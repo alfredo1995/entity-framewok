@@ -20,7 +20,7 @@ CursoEFCore > ValuesObjects  >  StatusPedidos.cs
 	{  
 	    public enum StatusPedido   
 	    {
-		Analise,
+	        Analise,
 		Fizalizado,
 		Entregue,
 	    } 
