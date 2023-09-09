@@ -14,7 +14,7 @@ criar a pasta DOMAIN e ValuesObjects > dentro do projeto Console CursoEFCore
 	
 	Na pasta CursoEFCore > ValuesObjects  > Criar as class Enum com as propriedades 
 
-CursoEFCore > ValuesObjects  >  StatusPedidos.cs
+CursoEFCore > ValuesObjects  >  StatusPedidos.cs 
           
 	namespace EFCore.Obejct 
 	{  
