@@ -1,13 +1,13 @@
-Crianção de uma API de Pedidos no Console
-	
+Creating an Ordering API in the Console
+
 	Criar uma Brank Solution >  dentro da solution criar um novo projeto CONSOLE 
 
-Instalando Pacote do SQL Server
-	
+Installing SQL Server Package
+
 	dotnet add  Curso\CursoEFCore.csproj package Microsoft.EntityFrameworkCore.SqlServer --version 3.1.5
 
-instalando Pacote do SQL Server via Pack Nuget 
-	
+installing SQL Server Package via Pack Nuget
+
 	Depedencia do proejto >  botão direito > Manage Nuget Package
 
 criar a pasta DOMAIN e ValuesObjects > dentro do projeto Console CursoEFCore
