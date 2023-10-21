@@ -10,8 +10,8 @@ installing SQL Server Package via Pack Nuget
 
 	Project dependency >  right button > Manage Nuget Package
 
-criar a pasta DOMAIN e ValuesObjects > dentro do projeto Console CursoEFCore
-	
+create the DOMAIN and ValuesObjects folder > within the CursoEFCore Console project
+
 	In the folder CursoEFCore > ValuesObjects  > Create Enum classes with properties
 
 CursoEFCore > ValuesObjects  >  StatusPedidos.cs 
