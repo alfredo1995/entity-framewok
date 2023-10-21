@@ -1,6 +1,6 @@
 Creating an Ordering API in the Console
 
-	Criar uma Brank Solution >  dentro da solution criar um novo projeto CONSOLE 
+	Create one Brank Solution >  dentro da solution criar um novo projeto CONSOLE 
 
 Installing SQL Server Package
 
@@ -8,11 +8,11 @@ Installing SQL Server Package
 
 installing SQL Server Package via Pack Nuget
 
-	Depedencia do proejto >  botão direito > Manage Nuget Package
+	Project dependency >  right button > Manage Nuget Package
 
 criar a pasta DOMAIN e ValuesObjects > dentro do projeto Console CursoEFCore
 	
-	Na pasta CursoEFCore > ValuesObjects  > Criar as class Enum com as propriedades 
+	In the folder CursoEFCore > ValuesObjects  > Create Enum classes with properties
 
 CursoEFCore > ValuesObjects  >  StatusPedidos.cs 
           
