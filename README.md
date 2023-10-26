@@ -6,7 +6,7 @@ Installing SQL Server Package
 
 	dotnet add  Curso\CursoEFCore.csproj package Microsoft.EntityFrameworkCore.SqlServer --version 3.1.5
 
-installing SQL Server Package via Pack Nuget
+installing SQL Server Package via Pack Nuget 
 
 	Project dependency >  right button > Manage Nuget Package
 
