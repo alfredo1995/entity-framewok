@@ -14,7 +14,7 @@ create the DOMAIN and ValuesObjects folder > within the CursoEFCore Console proj
 
 	In the folder CursoEFCore > ValuesObjects  > Create Enum classes with properties
 
-CursoEFCore > ValuesObjects  >  StatusPedidos.cs 
+CursoEFCore > ValuesObjects  >  StatusPedidos.cs  
           
 	namespace EFCore.Obejct 
 	{  
