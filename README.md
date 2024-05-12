@@ -8,7 +8,7 @@ Installing SQL Server Package
 
 installing SQL Server Package via Pack Nuget 
 
-	Project dependency >  right button > Manage Nuget Package
+	Project dependency >  right button > Manage Nuget Package 
 
 create the DOMAIN and ValuesObjects folder > within the CursoEFCore Console project
 
