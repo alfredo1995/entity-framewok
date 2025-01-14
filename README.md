@@ -9,7 +9,7 @@ Installing SQL Server Package
 installing SQL Server Package via Pack Nuget 
 
 	Project dependency >  right button > Manage Nuget Package 
-
+ 
 create the DOMAIN and ValuesObjects folder > within the CursoEFCore Console project
 
 	In the folder CursoEFCore > ValuesObjects  > Create Enum classes with properties
